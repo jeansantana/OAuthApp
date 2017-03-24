@@ -9,4 +9,4 @@
 
 ## API using OAuth 2.0 example
 
-This application is an example of OAuth 2.0 use that is provided for laravel. This application is based on Laravel [documentation](https://laravel.com/docs/5.4/passport#password-grant-tokens).
+This application is an example of OAuth 2.0 use that is provided for laravel. This application is based on Laravel [documentation](https://laravel.com/docs/5.4/passport).
